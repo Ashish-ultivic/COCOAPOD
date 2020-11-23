@@ -1,0 +1,21 @@
+{
+  "name": "COCOAPODS",
+  "version": "1.0.1",
+  "summary": "THis is summary for test project",
+  "description": "this is description, final test for framework project",
+  "homepage": "https://github.com/Ashish-ultivic/COCOAPOD",
+  "license": "MIT",
+  "authors": {
+    "Vinay": "vinay.dadwal@ultivic.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/Ashish-ultivic/COCOAPOD.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "COCOAPODS/**/*.swift",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}
